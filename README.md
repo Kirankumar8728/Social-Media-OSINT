@@ -370,6 +370,14 @@ Please bear in mind that recent changes to Twitter, especially involving their A
    <p>Latest WhatsApp group links.</p>
   <li><a href="https://whatsgroupslink.com/">Whats Group Links</a></li> 
    <p>Latest Whatsapp group links</p>
+  <li><a href="https://www.socialgrouplink.com/group_type/whatsapp-group-link/">Whatsapp Group Links</a></li> 
+   <p>Latest Whatsapp group links</p>
+  <li><a href="https://www.socialgrouplink.com/group_type/telegram-group-link/">Telegram Group Links</a></li> 
+   <p>Latest Telegram group links</p>
+  <li><a href="https://www.socialgrouplink.com/group_type/facebook-group-link/">Facebook Group Links</a></li> 
+   <p>Facebook group links</p>
+   <li><a href="https://www.socialgrouplink.com/group_type/discord-server/">Discord server</a></li> 
+   <p>Discord server</p>
 </ul>
 
 
